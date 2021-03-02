@@ -13,7 +13,7 @@ for (var i = 1; i <= 100; i++) {
     console.log("Buzz");
   }
   // stampa degli altri numeri
-  else  {
+  else {
     console.log(i);
   }
 }
